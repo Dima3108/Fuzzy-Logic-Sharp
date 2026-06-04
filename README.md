@@ -51,8 +51,23 @@ var result = fuzzyEngine.Defuzzify(new { water = 60 });
 
 ### Road map
 1. FCL Support for saving and loading Fuzzy Systems.
-2. Additional defuzzification method implementations.
-3. Expand rule syntax and add additional operators.
+2. 
+3. Additional defuzzification method implementations.
+4. 
+5. Expand rule syntax and add additional operators.
 
 
 
+
+
+
+
+----
+
+<h2>
+    Пример кода
+</h2>
+
+<img width="1854" height="1517" alt="image" src="https://github.com/user-attachments/assets/1f13cf0d-3abe-477c-8357-592ccf3653a9" />
+
+----
