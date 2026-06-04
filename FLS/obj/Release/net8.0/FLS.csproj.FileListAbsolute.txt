@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\bin\Release\net8.0\FLS.deps.json
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\bin\Release\net8.0\FLS.dll
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\bin\Release\net8.0\FLS.pdb
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\FLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\FLS.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\FLS.AssemblyInfo.cs
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\FLS.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\FLS.dll
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\refint\FLS.dll
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\FLS.pdb
+C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\obj\Release\net8.0\ref\FLS.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FuzzyLogicSharpDima3108</id>
+    <version>1.0.0</version>
+    <title>FuzzyLogicSharpDima3108</title>
+    <authors>Dima3108</authors>
+    <projectUrl>https://github.com/Dima3108/Fuzzy-Logic-Sharp</projectUrl>
+    <description>Библиотека для нечеткого вывода</description>
+    <copyright>Павлов Дмитрий</copyright>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\bin\Debug\net6.0\FLS.dll" target="lib\net6.0\FLS.dll" />
+    <file src="C:\Users\Дмитрий\Downloads\Fuzzy-Logic-Sharp-master\FLS\bin\Debug\net8.0\FLS.dll" target="lib\net8.0\FLS.dll" />
+  </files>
+</package>

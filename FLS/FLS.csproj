@@ -1,18 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+	<!--<Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />-->
+  <!--<PropertyGroup>
+  <TargetFramework>net6.0</TargetFramework>
+  <PackageId>FuzzyLogicSharpDima3108</PackageId>
+  <Version>1.0.0</Version>
+  <Authors>Dima3108</Authors>
+  <Company>#</Company>
+  <Description>Библиотека для нечеткого вывода</Description>
+  <PackageTags>fls; fuzzylogic; dotnet</PackageTags>
+  </PropertyGroup>-->
   <PropertyGroup>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <!--<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{008088EC-5365-4EBD-BC54-97FC0BB4876C}</ProjectGuid>
+    <ProjectGuid>{008088EC-5365-4EBD-BC54-97FC0BB4876C}</ProjectGuid>-->
     <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <!--<AppDesignerFolder>Properties</AppDesignerFolder>-->
     <RootNamespace>FLS</RootNamespace>
     <AssemblyName>FLS</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
     <FileAlignment>512</FileAlignment>
+    <!--NUGET-->
+    <PackageId>FuzzyLogicSharpDima3108</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Dima3108</Authors>
+    <Company>#</Company>
+    <Description>Библиотека для нечеткого вывода</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>FuzzyLogicSharpDima3108</Title>
+    <Copyright>Павлов Дмитрий</Copyright>
+    <PackageProjectUrl>https://github.com/Dima3108/Fuzzy-Logic-Sharp</PackageProjectUrl>
+    <Platforms>AnyCPU;x64</Platforms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!--NUGET-->
+     
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  <!--<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -28,8 +54,8 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <ItemGroup>
+  </PropertyGroup>-->
+ <!-- <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -77,8 +103,8 @@
     <Compile Include="Rules\Premise.cs" />
     <Compile Include="Rules\Rule.cs" />
     <Compile Include="Variables\LinguisticVariable.cs" />
-  </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  </ItemGroup>-->
+  <!--<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />-->
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
