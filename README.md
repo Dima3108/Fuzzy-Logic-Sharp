@@ -54,5 +54,12 @@ var result = fuzzyEngine.Defuzzify(new { water = 60 });
 2. Additional defuzzification method implementations.
 3. Expand rule syntax and add additional operators.
 
+---
+<h2>
+    Пример кода
+</h2>
 
+<img width="2040" height="1510" alt="image" src="https://github.com/user-attachments/assets/afcd5a4f-a78d-492a-a4d8-473c52d38cb3" />
+
+---
 
